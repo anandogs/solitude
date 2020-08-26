@@ -1,0 +1,23 @@
+{
+  "name": "solitude-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandogs/solitude.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandogs/solitude/issues"
+  },
+  "homepage": "https://anandogs.github.io/solitude",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
